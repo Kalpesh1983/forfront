@@ -1,0 +1,6 @@
+C:\Users\SHAILY\Desktop\Project\ForfrontConsole\ForfrontConsole\bin\Debug\ForfrontConsole.exe.config
+C:\Users\SHAILY\Desktop\Project\ForfrontConsole\ForfrontConsole\obj\Debug\ForfrontConsole.csprojResolveAssemblyReference.cache
+C:\Users\SHAILY\Desktop\Project\ForfrontConsole\ForfrontConsole\bin\Debug\ForfrontConsole.exe
+C:\Users\SHAILY\Desktop\Project\ForfrontConsole\ForfrontConsole\bin\Debug\ForfrontConsole.pdb
+C:\Users\SHAILY\Desktop\Project\ForfrontConsole\ForfrontConsole\obj\Debug\ForfrontConsole.exe
+C:\Users\SHAILY\Desktop\Project\ForfrontConsole\ForfrontConsole\obj\Debug\ForfrontConsole.pdb
